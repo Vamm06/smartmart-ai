@@ -1,0 +1,121 @@
+product_id,name,category,price,brand,description,dietary_tags,section
+P001,Oats,Breakfast,180,TrueHarvest,Whole grain rolled oats,vegetarian|vegan,A1
+P002,Almonds,Snacks,250,NutriFarm,Unsalted almonds rich in protein,vegetarian|vegan,A2
+P003,Roasted Chana,Snacks,90,DailyBite,Roasted chickpeas rich in protein,vegetarian|vegan,A2
+P004,Shampoo,Personal Care,220,CleanCare,Daily use shampoo,not_applicable,B1
+P005,Milk,Dairy,65,FreshFarm,Cow milk 500 ml,vegetarian,C1
+P006,Whole Wheat Bread,Bakery,45,DailyBake,Whole wheat bread loaf,vegetarian,C2
+P007,Orange Juice,Beverages,120,FreshSip,Orange juice 1 litre,vegetarian|vegan,D1
+P008,Paneer,Dairy,110,FreshFarm,Fresh paneer 200 g,vegetarian,C1
+P009,Dark Chocolate,Snacks,150,SweetCo,Dark chocolate snack,vegetarian,A2
+P010,Floor Cleaner,Household,160,HomePlus,Multi surface floor cleaner,not_applicable,D2
+P011,Red Apples,Fruits & Vegetables,140,FarmFresh,"Fresh crisp red apples, whole fruit, suitable for snacks and breakfast.",vegetarian|vegan,A1
+P012,Bananas,Fruits & Vegetables,60,FarmFresh,"Fresh ripe bananas, naturally sweet fruit for breakfast and smoothies.",vegetarian|vegan,A1
+P013,Sweet Oranges,Fruits & Vegetables,90,FarmFresh,"Juicy oranges, fresh citrus fruit and a source of vitamin C.",vegetarian|vegan,A1
+P014,Alphonso Mangoes,Fruits & Vegetables,180,FarmFresh,"Sweet seasonal mangoes, fresh fruit for snacks and desserts.",vegetarian|vegan,A1
+P015,Seedless Grapes,Fruits & Vegetables,110,FarmFresh,"Fresh seedless grapes, bite-sized fruit for snacks and lunch boxes.",vegetarian|vegan,A1
+P016,Watermelon,Fruits & Vegetables,55,FarmFresh,"Fresh watermelon, hydrating fruit with a mild sweet taste.",vegetarian|vegan,A1
+P017,Papaya,Fruits & Vegetables,50,FarmFresh,"Ripe papaya, fresh fruit commonly served at breakfast.",vegetarian|vegan,A1
+P018,Pomegranate,Fruits & Vegetables,130,FarmFresh,"Fresh pomegranate with edible seeds, suitable for salads and snacks.",vegetarian|vegan,A1
+P019,Fresh Spinach,Fruits & Vegetables,35,FarmFresh,"Leafy green spinach for cooking, salads and vegetable dishes.",vegetarian|vegan,A1
+P020,Farm Tomatoes,Fruits & Vegetables,40,FarmFresh,"Fresh tomatoes for salads, sauces, curries and everyday cooking.",vegetarian|vegan,A1
+P021,Potatoes,Fruits & Vegetables,35,FarmFresh,"Fresh potatoes, versatile vegetables for roasting and everyday meals.",vegetarian|vegan,A1
+P022,Red Onions,Fruits & Vegetables,45,FarmFresh,"Fresh red onions for cooking, salads and savoury dishes.",vegetarian|vegan,A1
+P023,Cucumbers,Fruits & Vegetables,30,FarmFresh,"Fresh cucumbers for salads, sandwiches and snacks.",vegetarian|vegan,A1
+P024,Carrots,Fruits & Vegetables,50,FarmFresh,"Fresh carrots, crunchy vegetables for salads, cooking and snacks.",vegetarian|vegan,A1
+P025,Broccoli,Fruits & Vegetables,75,FarmFresh,"Fresh broccoli florets for steaming, stir-fry and healthy meals.",vegetarian|vegan,A1
+P026,Greek Yogurt,Dairy,120,FreshFarm,"Plain Greek yogurt, creamy dairy food suitable for breakfast and snacks.",vegetarian,C1
+P027,Plain Curd,Dairy,55,FreshFarm,"Plain set curd made from milk, suitable as a side or snack.",vegetarian,C1
+P028,Salted Butter,Dairy,58,FreshFarm,"Salted dairy butter for toast, baking and cooking.",vegetarian,C1
+P029,Cheddar Cheese Slices,Dairy,145,FreshFarm,"Cheddar cheese slices for sandwiches, burgers and snacks.",vegetarian,C1
+P030,Paneer Cubes,Dairy,125,FreshFarm,"Fresh paneer cubes, vegetarian dairy protein for curries and stir-fries.",vegetarian,C1
+P031,Plain Buttermilk,Dairy,25,FreshFarm,"Chilled dairy buttermilk drink, lightly seasoned and refreshing.",vegetarian,C1
+P032,Toned Milk,Dairy,32,FreshFarm,"Toned cow milk for tea, coffee, cereal and everyday use.",vegetarian,C1
+P033,Full Cream Milk,Dairy,38,FreshFarm,"Full cream cow milk for beverages, desserts and cooking.",vegetarian,C1
+P034,Cow Ghee,Dairy,180,FreshFarm,"Clarified butter made from milk, used for cooking and traditional meals.",vegetarian,C1
+P035,Mozzarella Cheese,Dairy,165,FreshFarm,"Mozzarella cheese for pizza, sandwiches and baked dishes.",vegetarian,C1
+P036,Fresh Cream,Dairy,75,FreshFarm,"Dairy cream for sauces, soups, desserts and cooking.",vegetarian,C1
+P037,Mango Lassi,Dairy,45,FreshFarm,"Mango flavoured yogurt drink, chilled dairy beverage.",vegetarian,C1
+P038,Strawberry Yogurt,Dairy,35,FreshFarm,Strawberry flavoured dairy yogurt in an individual cup.,vegetarian,C1
+P039,Cheese Spread,Dairy,95,FreshFarm,"Creamy cheese spread for bread, crackers and sandwiches.",vegetarian,C1
+P040,Unsalted Butter,Dairy,62,FreshFarm,"Unsalted dairy butter for baking, toast and cooking.",vegetarian,C1
+P041,Multigrain Bread,Bakery,65,DailyBake,Multigrain sliced bread for toast and sandwiches.,vegetarian,C2
+P042,Brown Bread,Bakery,50,DailyBake,Whole wheat brown bread loaf for everyday sandwiches and toast.,vegetarian,C2
+P043,Dinner Pav,Bakery,35,DailyBake,Soft bakery pav rolls for savoury meals and sandwiches.,vegetarian,C2
+P044,Burger Buns,Bakery,45,DailyBake,Soft burger buns for homemade veggie burgers and sandwiches.,vegetarian,C2
+P045,Butter Croissant,Bakery,55,DailyBake,"Flaky bakery croissant made with butter, suitable for breakfast.",vegetarian,C2
+P046,Blueberry Muffin,Bakery,60,DailyBake,Sweet blueberry bakery muffin for breakfast or an afternoon snack.,vegetarian,C2
+P047,Chocolate Muffin,Bakery,55,DailyBake,"Chocolate flavoured bakery muffin, individually portioned.",vegetarian,C2
+P048,Garlic Bread,Bakery,85,DailyBake,Garlic seasoned bread for toasting and serving with meals.,vegetarian,C2
+P049,Whole Wheat Pita,Bakery,70,DailyBake,"Whole wheat pita bread for wraps, fillings and dips.",vegetarian,C2
+P050,Pizza Base,Bakery,50,DailyBake,Ready-to-top bakery pizza base for homemade pizza.,vegetarian,C2
+P051,Cinnamon Roll,Bakery,65,DailyBake,Sweet cinnamon bakery roll for breakfast or dessert.,vegetarian,C2
+P052,Plain Bagels,Bakery,75,DailyBake,Plain bakery bagels for breakfast sandwiches and toast.,vegetarian,C2
+P053,Multigrain Rusk,Bakery,55,DailyBake,Crunchy multigrain rusks for tea-time snacks.,vegetarian,C2
+P054,Jeera Biscuits,Bakery,40,DailyBake,Cumin flavoured savoury bakery biscuits for tea-time.,vegetarian,C2
+P055,Fruit Bun,Bakery,45,DailyBake,"Soft bakery bun with dried fruit pieces, suitable for a snack.",vegetarian,C2
+P056,Roasted Peanuts,Snacks,75,DailyBite,"Roasted peanuts, crunchy plant-based snack containing protein.",vegetarian|vegan,A2
+P057,Masala Makhana,Snacks,95,DailyBite,"Roasted fox nuts seasoned with spices, a crunchy vegetarian snack.",vegetarian|vegan,A2
+P058,Trail Mix,Snacks,160,DailyBite,Mixed nuts and seeds for a convenient snack with plant protein.,vegetarian|vegan,A2
+P059,Peanut Protein Bar,Snacks,85,DailyBite,Peanut-based snack bar with plant ingredients; check pack for nutrition details.,vegetarian|vegan,A2
+P060,Roasted Soy Nuts,Snacks,110,DailyBite,"Crunchy roasted soybeans, a plant-based snack containing protein.",vegetarian|vegan,A2
+P061,Pumpkin Seeds,Snacks,140,DailyBite,"Edible pumpkin seeds for snacking, salads and breakfast bowls.",vegetarian|vegan,A2
+P062,Sunflower Seeds,Snacks,95,DailyBite,"Sunflower kernels for snacks, salads and cereal toppings.",vegetarian|vegan,A2
+P063,Baked Chickpea Chips,Snacks,70,DailyBite,"Baked chickpea-based crisps, a savoury plant-based snack.",vegetarian|vegan,A2
+P064,Salted Popcorn,Snacks,45,DailyBite,Ready-to-eat salted popcorn for a light savoury snack.,vegetarian|vegan,A2
+P065,Granola Bar,Snacks,65,DailyBite,Oat and grain snack bar for breakfast or between-meal snacking.,vegetarian|vegan,A2
+P066,Seedless Dates,Snacks,130,DailyBite,"Seedless dates, naturally sweet dried fruit for snacks and recipes.",vegetarian|vegan,A2
+P067,Black Raisins,Snacks,85,DailyBite,"Dried black raisins for snacking, baking and breakfast bowls.",vegetarian|vegan,A2
+P068,Roasted Cashews,Snacks,190,DailyBite,"Roasted cashew nuts, crunchy snack and source of plant protein.",vegetarian|vegan,A2
+P069,Pistachios,Snacks,210,DailyBite,Pistachio nuts for snacking and adding to desserts.,vegetarian|vegan,A2
+P070,Brown Rice Cakes,Snacks,80,DailyBite,Crisp brown rice cakes for light snacks and toppings.,vegetarian|vegan,A2
+P071,Baked Potato Chips,Snacks,55,DailyBite,Baked potato crisps with a lightly salted savoury flavour.,vegetarian|vegan,A2
+P072,Gujarati Khakhra,Snacks,60,DailyBite,"Thin roasted wheat khakhra, a crunchy savoury snack.",vegetarian|vegan,A2
+P073,Puffed Rice Mixture,Snacks,50,DailyBite,Puffed rice savoury mixture with spices for tea-time snacking.,vegetarian|vegan,A2
+P074,Soy Protein Crisps,Snacks,125,DailyBite,"Crunchy soy-based crisps, a plant-based snack containing protein.",vegetarian|vegan,A2
+P075,Roasted Chana Jor,Snacks,65,DailyBite,"Spiced flattened roasted chickpeas, a crunchy plant-based protein snack.",vegetarian|vegan,A2
+P076,Coconut Water,Beverages,55,FreshSip,"Packaged coconut water drink, served chilled.",vegetarian|vegan,D1
+P077,Green Tea Bags,Beverages,120,FreshSip,Green tea bags for preparing a warm unsweetened tea beverage.,vegetarian|vegan,D1
+P078,Black Tea,Beverages,95,FreshSip,Black tea leaves for brewing a hot tea beverage.,vegetarian|vegan,D1
+P079,Instant Coffee,Beverages,150,FreshSip,Instant coffee granules for preparing hot or iced coffee.,vegetarian|vegan,D1
+P080,Lemonade,Beverages,45,FreshSip,Ready-to-drink lemon beverage with a refreshing citrus flavour.,vegetarian|vegan,D1
+P081,Apple Juice,Beverages,110,FreshSip,"Packaged apple juice beverage, best served chilled.",vegetarian|vegan,D1
+P082,Mixed Fruit Juice,Beverages,125,FreshSip,Mixed fruit juice drink for a chilled beverage.,vegetarian|vegan,D1
+P083,Sparkling Water,Beverages,65,FreshSip,"Carbonated plain water, served chilled as a beverage.",vegetarian|vegan,D1
+P084,Iced Tea,Beverages,50,FreshSip,Ready-to-drink lemon iced tea beverage.,vegetarian|vegan,D1
+P085,Mango Drink,Beverages,40,FreshSip,"Mango flavoured fruit beverage, served chilled.",vegetarian|vegan,D1
+P086,Oat Drink,Beverages,135,FreshSip,"Plant-based oat beverage for cereal, smoothies and coffee.",vegetarian|vegan,D1
+P087,Almond Drink,Beverages,145,FreshSip,"Plant-based almond beverage for cereal, smoothies and coffee.",vegetarian|vegan,D1
+P088,Hand Wash,Personal Care,95,CleanCare,Liquid hand wash for everyday hand hygiene.,not_applicable,B1
+P089,Fluoride Toothpaste,Personal Care,75,CleanCare,Toothpaste for routine tooth cleaning and oral hygiene.,not_applicable,B1
+P090,Soft Toothbrush,Personal Care,35,CleanCare,Soft-bristle toothbrush for daily oral care.,not_applicable,B1
+P091,Gentle Face Wash,Personal Care,145,CleanCare,Gentle facial cleanser for daily face washing.,not_applicable,B1
+P092,Daily Moisturizer,Personal Care,180,CleanCare,Face and body moisturizer for everyday skin care.,not_applicable,B1
+P093,SPF Sunscreen,Personal Care,240,CleanCare,Broad-spectrum sunscreen for sun protection; follow label directions.,not_applicable,B1
+P094,Hair Conditioner,Personal Care,160,CleanCare,Rinse-off hair conditioner for regular hair care.,not_applicable,B1
+P095,Body Lotion,Personal Care,155,CleanCare,Body lotion for everyday skin moisturising.,not_applicable,B1
+P096,Bathing Soap,Personal Care,40,CleanCare,Bathing soap bar for everyday personal cleansing.,not_applicable,B1
+P097,Roll-On Deodorant,Personal Care,125,CleanCare,Roll-on deodorant for everyday personal care.,not_applicable,B1
+P098,Coconut Hair Oil,Personal Care,110,CleanCare,Coconut-based hair oil for hair care and conditioning.,not_applicable,B1
+P099,Aloe Face Gel,Personal Care,135,CleanCare,Aloe-based face gel for a lightweight skin-care routine.,not_applicable,B1
+P100,Sanitary Pads,Personal Care,95,CleanCare,Pack of sanitary pads for menstrual hygiene.,not_applicable,B1
+P101,Laundry Detergent,Household,210,HomePlus,Laundry detergent powder for washing clothes.,not_applicable,D2
+P102,Dishwashing Liquid,Household,85,HomePlus,Liquid dishwashing cleaner for utensils and cookware.,not_applicable,D2
+P103,Toilet Cleaner,Household,95,HomePlus,Household toilet cleaning liquid; follow product label directions.,not_applicable,D2
+P104,Facial Tissue Box,Household,65,HomePlus,Paper facial tissues for everyday household use.,not_applicable,D2
+P105,Garbage Bags,Household,75,HomePlus,Household garbage bags for collecting and disposing of waste.,not_applicable,D2
+P106,Paper Towels,Household,90,HomePlus,Absorbent paper towels for kitchen and household cleaning.,not_applicable,D2
+P107,Kitchen Scrubbers,Household,35,HomePlus,Scouring scrubbers for cleaning kitchen utensils.,not_applicable,D2
+P108,Surface Cleaner,Household,120,HomePlus,Multi-surface household cleaning liquid.,not_applicable,D2
+P109,Fabric Softener,Household,145,HomePlus,Laundry fabric softener for washing clothes.,not_applicable,D2
+P110,Air Freshener,Household,130,HomePlus,Room air freshener for household spaces.,not_applicable,D2
+P111,Corn Flakes,Breakfast,135,MorningMill,"Corn flakes breakfast cereal, commonly served with milk or plant drink.",vegetarian|vegan,A1
+P112,Fruit Muesli,Breakfast,190,MorningMill,Muesli breakfast cereal with grains and dried fruit.,vegetarian|vegan,A1
+P113,Crunchy Peanut Butter,Breakfast,175,MorningMill,"Peanut butter spread for toast, sandwiches and breakfast bowls.",vegetarian|vegan,A1
+P114,Natural Honey,Breakfast,160,MorningMill,"Honey sweetener for toast, cereal and breakfast recipes.",vegetarian|vegan,A1
+P115,Mixed Fruit Jam,Breakfast,95,MorningMill,"Fruit jam spread for bread, toast and breakfast.",vegetarian|vegan,A1
+P116,Poha,Breakfast,60,MorningMill,Flattened rice for preparing a traditional savoury breakfast.,vegetarian|vegan,A1
+P117,Instant Upma Mix,Breakfast,75,MorningMill,Ready-to-cook savoury semolina breakfast mix.,vegetarian|vegan,A1
+P118,Ragi Flour,Breakfast,80,MorningMill,"Finger millet flour for porridge, dosa and breakfast recipes.",vegetarian|vegan,A1
+P119,Chia Seeds,Breakfast,145,MorningMill,"Chia seeds for overnight oats, smoothies and breakfast bowls.",vegetarian|vegan,A1
+P120,Quinoa Flakes,Breakfast,185,MorningMill,Quinoa flakes for preparing a warm cereal or breakfast porridge.,vegetarian|vegan,A1

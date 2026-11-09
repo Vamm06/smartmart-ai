@@ -1,0 +1,29 @@
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Secret credentials
+.env
+.streamlit/secrets.toml
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+*_backup*.py
+*backup*.py
+data/*backup*.csv
+
+# Mac system files
+.DS_Store
+
+# Test and development cache
+.pytest_cache/
+.mypy_cache/

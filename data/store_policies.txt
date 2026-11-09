@@ -1,0 +1,46 @@
+
+POLICY_ID: RETURN-001
+TITLE: Standard Return Policy
+TOPIC: returns
+SOURCE: Returns Policy, Section 1
+TEXT: Unopened non-perishable products in their original packaging can be returned within 7 days of purchase with a valid receipt. Opened non-defective products are not eligible for a standard return.
+
+---
+
+POLICY_ID: RETURN-002
+TITLE: Perishable Product Returns
+TOPIC: returns
+SOURCE: Returns Policy, Section 2
+TEXT: Perishable products cannot be returned unless they are defective. Customers should contact store staff for assistance with defective perishable products.
+
+---
+
+POLICY_ID: REFUND-001
+TITLE: Refund Processing Time
+TOPIC: refunds
+SOURCE: Refund Policy, Section 1
+TEXT: Approved refunds are processed within 5 to 7 business days.
+
+---
+
+POLICY_ID: DISCOUNT-001
+TITLE: Membership Discount
+TOPIC: discounts
+SOURCE: Discount Policy, Section 1
+TEXT: Store members receive a 5 percent discount on eligible products.
+
+---
+
+POLICY_ID: DISCOUNT-002
+TITLE: Combining Discounts
+TOPIC: discounts
+SOURCE: Discount Policy, Section 2
+TEXT: Discounts cannot be combined with other offers unless the promotion explicitly allows it.
+
+---
+
+POLICY_ID: RECEIPT-001
+TITLE: Purchase Receipt Requirement
+TOPIC: receipts
+SOURCE: Purchase Policy, Section 1
+TEXT: Customers must provide a valid purchase receipt when requesting a standard product return.

@@ -1,0 +1,18 @@
+case_id,paradigm,task,passed,precision,recall,latency_ms,actual_results
+P01,Rule-based AI,Product Recommendation,1,0.5,1.0,4.254416999174282,P003|P009
+P01,TF-IDF Recommendation,Product Recommendation,1,1.0,1.0,6.368832997395657,P003
+P02,Rule-based AI,Product Recommendation,1,1.0,1.0,1.0796249989653006,P001
+P02,TF-IDF Recommendation,Product Recommendation,1,1.0,1.0,2.3604579982929863,P001
+P03,Rule-based AI,Product Recommendation,1,1.0,1.0,0.9588749962858856,P005|P008
+P03,TF-IDF Recommendation,Product Recommendation,1,1.0,1.0,2.2938330002943985,P005|P008
+P04,Rule-based AI,Product Recommendation,1,1.0,1.0,0.89395899703959,P004
+P04,TF-IDF Recommendation,Product Recommendation,1,1.0,1.0,2.1478749986272305,P004
+Q01,Rule-based AI,Policy Question,1,,,0.0013329990906640887,RETURN-001
+Q01,RAG Retrieval,Policy Question,1,,,1.5085420018294826,RECEIPT-001|RETURN-001
+Q02,Rule-based AI,Policy Question,1,,,0.0005420006345957518,REFUND-001
+Q02,RAG Retrieval,Policy Question,1,,,1.1157499975524843,REFUND-001
+Q03,Rule-based AI,Policy Question,1,,,0.0004169996827840805,RETURN-002
+Q03,RAG Retrieval,Policy Question,1,,,1.145165995694697,RECEIPT-001|RETURN-001|RETURN-002
+Q04,Rule-based AI,Policy Question,1,,,0.0004579997039400041,DISCOUNT-002
+Q04,RAG Retrieval,Policy Question,1,,,1.120250002713874,DISCOUNT-001|DISCOUNT-002
+A01,Tool-Using Agent Workflow,Shopping Task,1,,,5.3557079954771325,Products: P003; Tools: Recommendation Engine|Store Route Planner

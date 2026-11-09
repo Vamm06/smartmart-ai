@@ -1,0 +1,6 @@
+case_id,expected_policy_id,standalone_llm_correct,standalone_llm_abstained,rag_answer_correct,rag_source_correct,rag_abstained_when_unknown,unsupported_claims,notes
+Q01,RETURN-001,,,,,,,
+Q02,REFUND-001,,,,,,,
+Q03,RETURN-002,,,,,,,
+Q04,DISCOUNT-002,,,,,,,
+Q05,NO_MATCH,,,,,,,

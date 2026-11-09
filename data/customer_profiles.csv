@@ -1,0 +1,4 @@
+customer_id,name,budget,dietary_preference,preferred_category
+C001,Arnav,300,vegetarian,snacks
+C002,Meera,500,vegetarian,breakfast
+C003,Riya,250,vegan,snacks

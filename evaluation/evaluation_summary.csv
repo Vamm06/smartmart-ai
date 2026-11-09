@@ -1,0 +1,6 @@
+paradigm,task,test_cases,passed_tests,pass_rate,average_latency_ms,pass_rate_percent
+RAG Retrieval,Policy Question,4,4,1.0,1.22,100.0
+Rule-based AI,Policy Question,4,4,1.0,0.0,100.0
+Rule-based AI,Product Recommendation,4,4,1.0,1.8,100.0
+TF-IDF Recommendation,Product Recommendation,4,4,1.0,3.29,100.0
+Tool-Using Agent Workflow,Shopping Task,1,1,1.0,5.36,100.0

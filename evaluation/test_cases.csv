@@ -1,0 +1,11 @@
+
+case_id,task,query,category,budget,dietary,expected_product_ids,expected_policy_id
+P01,product,"healthy snacks rich in protein",snacks,300,vegetarian,P003,
+P02,product,"healthy breakfast under 200",breakfast,200,,P001,
+P03,product,"vegetarian dairy products",dairy,200,vegetarian,P005|P008,
+P04,product,"shampoo under 300",personal care,300,,P004,
+Q01,policy,"Can I return an opened shampoo bottle?",,,,,RETURN-001
+Q02,policy,"How long does an approved refund take?",,,,,REFUND-001
+Q03,policy,"Can I return perishable products?",,,,,RETURN-002
+Q04,policy,"Can two discounts be combined?",,,,,DISCOUNT-002
+A01,agent_shopping,"healthy snacks rich in protein",snacks,300,vegetarian,P003,
